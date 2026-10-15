@@ -64,7 +64,7 @@ public class MainClass {
 		int width = 100;
 		int height = 50;
 		
-		System.out.println("방의 넓이 : " + (width*height));
+		System.out.println("방의 넓이 : " + (width * height));
 		
 	}
 
